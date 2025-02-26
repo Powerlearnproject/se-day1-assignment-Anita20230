@@ -58,4 +58,4 @@ The vague prompt:
 This prompt is ambiguous and lacks focus, leading to a broad and unfocused response.
 The improved prompt: 
 "Explain the psychological and physical health benefits of regular yoga practices in young adults."
-  This prompt focuses on the psychological and physical health benefits specifically in young adults.
+This prompt focuses on the psychological and physical health benefits specifically in young adults.
